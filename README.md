@@ -39,6 +39,18 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+## Example Output
+
+Here are some examples of generated cityscapes that was rendered with [Blender](https://www.blender.org/):
+
+![Cityscape 1](images/city_1.png)
+
+![Cityscape 2](images/city_2.png)
+
+![Cityscape 3](images/city_3.png)
+
+![Cityscape 3](images/city_4.png)
+
 ## Credits
 
 The rectangle packing algorithm used in this project is provided by [Rectpack](https://github.com/secnot/rectpack).
