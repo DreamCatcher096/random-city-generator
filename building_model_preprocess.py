@@ -27,9 +27,9 @@ from scipy.spatial import ConvexHull
 from stl import mesh as stlm
 
 # The path to load source STL files
-root_path = r'H:\Workspace\OpenfoamGeo\STL_database\beijing_stl\individual'
+root_path = ''
 # The path to save processed STL files
-save_path = r'H:\Workspace\OpenfoamGeo\STL_database\beijing_stl\individual_rot'
+save_path = ''
 
 os.makedirs(save_path, exist_ok=True)
 
